@@ -8,6 +8,6 @@ elif num % 3 == 0:
 elif num % 5 == 0:
     print("Fizz");
 else:
-    print ("Not a shread of Fizz and not a flake of Buzz");
+    print ("Not a shred of Fizz and not a flake of Buzz");
 
 #End
