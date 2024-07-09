@@ -1,20 +1,20 @@
 #Start
 
-print ("1st Person");
+print ("                                                ***1st Person***");
 id1: str = str (input ("Please enter your ID number"));
 fname1: str = str (input ("What's your First Name?"));
 lname1: str = str (input ("And your Last Name?"));
 height1: float = float (input ("How tall are you?"));
 YoB1: int = int (input ("In Which year were you born?"));
 
-print ("2nd Person");
+print ("                                                ***2nd Person***");
 id2: str = str (input ("Please enter your ID number"));
 fname2: str = str (input ("What's your First Name?"));
 lname2: str = str (input ("And your Last Name?"));
 height2: float = float (input ("How tall are you?"));
 YoB2: int = int (input ("In Which year were you born?"));
 
-print ("3rd Person");
+print ("                                                ***3rd Person***");
 id3: str = str (input ("Please enter your ID number"));
 fname3: str = str (input ("What's your First Name?"));
 lname3: str = str (input ("And your Last Name?"));
