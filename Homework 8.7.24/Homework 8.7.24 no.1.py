@@ -6,6 +6,7 @@ fname1: str = str (input ("What's your First Name?"));
 lname1: str = str (input ("And your Last Name?"));
 height1: float = float (input ("How tall are you?"));
 YoB1: int = int (input ("In Which year were you born?"));
+
 print ("2nd Person");
 id2: str = str (input ("Please enter your ID number"));
 fname2: str = str (input ("What's your First Name?"));
